@@ -6,6 +6,7 @@
 *Return: 0 nothing, return void
 */
 
+
 int main(void)
 
 {
@@ -17,6 +18,8 @@ int main(void)
 	putchar('h');
 	putchar('a');
 	putchar('r');
+ 
+
 
 	return (0);
 }
